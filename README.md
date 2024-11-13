@@ -5,9 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 🔭 I’m currently learning**Web development**
+- 🔭 I’m currently learning** Web development**
 
-- 🌱 I have learned **JavaScript, React, Bootstrap, Tailwind CSS**
+- 🌱 I have learned **JavaScript, React, Bootstrap, Next JS, Tailwind CSS**
+- 🤝 you can see my portfolio  https://my-portfolio-pied-six.vercel.app/
 
 - 🤝 you can look my project here  [https://vercel.com/abdullahs-projects-30396a3a](https://orebii-beauty-api.vercel.app/)
 
